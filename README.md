@@ -1,0 +1,2 @@
+
+A new way of thinking about networks and their dynamics.This tool is still under development but offer you a new way to design your network and configure it because is fully automated.A network id needed needs, a network schema, method like VLSM or other and the rest will be done by software.At the end you will have a simulated network fully configureted on your computer.You need to follow the diagram and configure the physical network.
